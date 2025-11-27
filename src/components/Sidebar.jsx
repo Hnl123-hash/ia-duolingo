@@ -9,7 +9,7 @@ const Sidebar = ({ currentView, onViewChange }) => {
 
     return (
         <aside className="sidebar">
-            <div className="logo">LingoAI</div>
+            <div className="logo">LinguaFlow AI</div>
             <nav>
                 {navItems.map((item) => (
                     <button
